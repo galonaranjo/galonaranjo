@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Galo Naranjo</h1>
-<h3> Technically-minded UX designer with a strong grasp of prototyping and front-end development. Looking to bring my skills in-house and bridge the gap between designer and developer.</h3>
+<h3> Technically-minded UX designer & developer with a strong grasp of prototyping and front-end development. Looking to bring my skills in-house and bridge the gap between designer and developer.</h3>
 
 - 🌱 I’m currently learning **React.js, Tailwind CSS, MongoDB**
 
